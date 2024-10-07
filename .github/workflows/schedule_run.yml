@@ -7,6 +7,9 @@ on:
     - cron: '0 0,12 * * *'
   workflow_dispatch: # 允许手动触发
 
+permissions:
+  contents: write  # 设置 GITHUB_TOKEN 权限为 write
+
 jobs:
   fetch_streams:
     runs-on: ubuntu-latest
@@ -46,7 +49,7 @@ jobs:
         git commit -m "Update final_streams.txt with new streams"
         git push origin HEAD:main  # 如果你使用的分支不是 main，请修改为你的分支
 
-    # 7. 上传输出文件作为 GitHub Action 的工件 (artifact)，如果还需要保存工件
+    # 7. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
       uses: actions/upload-artifact@v3  # 使用 v3 版本
       with:
