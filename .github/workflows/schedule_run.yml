@@ -17,11 +17,11 @@ jobs:
     steps:
     # 1. 检出项目仓库
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # 更新到 v4
 
     # 2. 设置 Python 环境
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # 更新到 v5
       with:
         python-version: '3.x'
 
@@ -54,12 +54,12 @@ jobs:
     - name: Commit and Push changes
       run: |
         git add final_streams.txt
-        git commit -m "Update final_streams.txt with new streams" --allow-empty
-        git push origin HEAD:main  # 如果使用的不是 main 分支，请修改
+        git commit -m "Update final_streams.txt with new streams"
+        git push origin HEAD:main  # 如果你使用的不是 main 分支，请修改为你的分支
 
     # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # 更新到 v4
       with:
         name: final_streams
         path: final_streams.txt
