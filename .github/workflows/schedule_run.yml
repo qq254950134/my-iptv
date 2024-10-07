@@ -36,20 +36,24 @@ jobs:
       run: |
         python fetch_streams.py
 
-    # 5. 配置 Git 信息
+    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
+    - name: List files in workspace
+      run: ls -la
+
+    # 6. 配置 Git 信息
     - name: Configure Git
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
 
-    # 6. 提交并推送文件到项目仓库
+    # 7. 提交并推送文件到项目仓库
     - name: Commit and Push changes
       run: |
         git add final_streams.txt
-        git commit -m "Update final_streams.txt with new streams"
+        git commit -m "Update final_streams.txt with new streams" --allow-empty
         git push origin HEAD:main  # 如果你使用的分支不是 main，请修改为你的分支
 
-    # 7. 上传输出文件作为 GitHub Action 的工件 (artifact)
+    # 8. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
       uses: actions/upload-artifact@v3  # 使用 v3 版本
       with:
