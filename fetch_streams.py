@@ -91,7 +91,7 @@ def organize_streams(content):
     # 使用 pandas 整理相同节目的源，并去除重复链接
     df = pd.DataFrame(streams)
     df = df.drop_duplicates(subset=['program_name', 'stream_url'])  # 删除重复的节目和链接
-    grouped = df.groupby('program_name')['stream_url']。apply(list).reset_index()
+    grouped = df.groupby('program_name')['stream_url'].apply(list).reset_index()
 
     return grouped
 
