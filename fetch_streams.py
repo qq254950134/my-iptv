@@ -91,12 +91,13 @@ def organize_streams(content):
     # 使用 pandas 整理相同节目的源，并去除重复链接
     df = pd.DataFrame(streams)
     df = df.drop_duplicates(subset=['program_name', 'stream_url'])  # 删除重复的节目和链接
-    grouped = df.groupby('program_name')['stream_url'].apply(list).reset_index()
+    grouped = df.groupby('program_name')['stream_url']。apply(list).reset_index()
 
     return grouped
 
 def save_to_txt(grouped_streams, filename="final_streams.txt"):
     filepath = os.path.join(os.getcwd(), filename)  # 使用绝对路径
+    print(f"保存文件的路径是: {filepath}")  # 输出文件保存路径
     ipv4_lines = []
     ipv6_lines = []
 
