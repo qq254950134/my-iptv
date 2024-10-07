@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import re
+import os
 
 # 多个网站 URL 列表
 urls = [
@@ -95,6 +96,7 @@ def organize_streams(content):
     return grouped
 
 def save_to_txt(grouped_streams, filename="final_streams.txt"):
+    filepath = os.path.join(os.getcwd(), filename)  # 使用绝对路径
     ipv4_lines = []
     ipv6_lines = []
 
@@ -108,13 +110,13 @@ def save_to_txt(grouped_streams, filename="final_streams.txt"):
             elif ipv6_pattern.match(url):
                 ipv6_lines.append(f"{program_name},{url}")
 
-    with open(filename, 'w', encoding='utf-8') as output_file:
+    with open(filepath, 'w', encoding='utf-8') as output_file:
         output_file.write("# IPv4 Streams\n")
         output_file.write("\n".join(ipv4_lines))
         output_file.write("\n\n# IPv6 Streams\n")
         output_file.write("\n".join(ipv6_lines))
 
-    print(f"所有源已保存到 {filename}")
+    print(f"所有源已保存到 {filepath}")
 
 if __name__ == "__main__":
     print("开始抓取所有源...")
