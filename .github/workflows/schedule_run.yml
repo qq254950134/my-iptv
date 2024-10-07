@@ -54,7 +54,7 @@ jobs:
     - name: Commit and Push changes
       run: |
         git add final_streams.txt
-        git commit -m "Update final_streams.txt with new streams"
+        git commit -m "Update final_streams.txt with new streams" --allow-empty  # 即使没有变化也提交
         git push origin HEAD:main  # 如果你使用的不是 main 分支，请修改为你的分支
 
     # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
