@@ -5,8 +5,9 @@ import os
 
 # 多个网站 URL 列表
 urls = [
-    "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
-    "http://175.178.251.183:6689/live.txt",
+    "http://8.138.7.223/live.txt",
+    "https://7337.kstore.space/twkj/tvzb.txt",
+    "https://ghfast.top/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/%E9%87%8E%E7%81%AB959",
     "http://tot.totalh.net/tttt.txt",
     "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
     "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
