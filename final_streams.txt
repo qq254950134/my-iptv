@@ -155,6 +155,18 @@ CCTV1,http://183.11.239.36:808/hls/19/index.m3u8
 CCTV1,http://180.103.216.177:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228049/index.m3u8?servicetype=1
+CCTV1 综合,http://47.92.130.115:9000/TVOD/6000000001000029752/wasusyt/index.m3u8?ace
+CCTV1 综合,http://47.92.130.115:9000/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
+CCTV1 综合,http://47.92.130.115:9000/TVOD/5000000004000002226/bestzb/index.m3u8?ace
+CCTV1 综合,http://47.92.130.115:9000/TVOD/1000000005000265001/ystenlive/index.m3u8?ace
+CCTV1 综合,http://47.92.130.115:9000/TVOD/5000000010000030810/bestzb/index.m3u8?ace
+CCTV1 综合,http://47.92.130.115:9000/TVOD/1000000001000021973/ystenlive/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/6000000001000029752/wasusyt/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/5000000004000002226/bestzb/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/1000000005000265001/ystenlive/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/5000000010000030810/bestzb/index.m3u8?ace
+CCTV1 综合,http://36.251.58.50:6060/TVOD/1000000001000021973/ystenlive/index.m3u8?ace
 CCTV10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
 CCTV10,http://36.25.232.33:8888/udp/233.50.201.122:5140
 CCTV10,http://115.221.83.182:8888/udp/233.50.201.122:5140
@@ -181,6 +193,18 @@ CCTV10,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&a
 CCTV10,http://183.11.239.36:808/hls/28/index.m3u8
 CCTV10,http://180.103.216.177:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv10
+CCTV10 科教,http://47.92.130.115:9000/TVOD/5000000004000012827/bestzb/index.m3u8?ace
+CCTV10 科教,http://47.92.130.115:9000/TVOD/6000000001000031506/wasusyt/index.m3u8?ace
+CCTV10 科教,http://47.92.130.115:9000/TVOD/1000000001000023734/ystenlive/index.m3u8?ace
+CCTV10 科教,http://47.92.130.115:9000/TVOD/1000000005000265010/ystenlive/index.m3u8?ace
+CCTV10 科教,http://47.92.130.115:9000/TVOD/5000000010000016738/bestzb/index.m3u8?ace
+CCTV10 科教,http://47.92.130.115:9000/TVOD/1000000001000026367/ystenlive/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/5000000004000012827/bestzb/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/6000000001000031506/wasusyt/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/1000000001000023734/ystenlive/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/1000000005000265010/ystenlive/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/5000000010000016738/bestzb/index.m3u8?ace
+CCTV10 科教,http://36.251.58.50:6060/TVOD/1000000001000026367/ystenlive/index.m3u8?ace
 CCTV11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
 CCTV11,http://36.25.232.33:8888/udp/233.50.201.11:5140
 CCTV11,http://115.221.83.182:8888/udp/233.50.201.11:5140
@@ -207,6 +231,14 @@ CCTV11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&a
 CCTV11,http://183.11.239.36:808/hls/29/index.m3u8
 CCTV11,http://180.103.216.177:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv11
+CCTV11 戏曲,http://47.92.130.115:9000/TVOD/5000000011000031106/bestzb/index.m3u8?ace
+CCTV11 戏曲,http://47.92.130.115:9000/TVOD/1000000005000265011/ystenlive/index.m3u8?ace
+CCTV11 戏曲,http://47.92.130.115:9000/TVOD/5000000006000040011/bestzb/index.m3u8?ace
+CCTV11 戏曲,http://47.92.130.115:9000/TVOD/1000000002000019789/ystenlive/index.m3u8?ace
+CCTV11 戏曲,http://36.251.58.50:6060/TVOD/5000000011000031106/bestzb/index.m3u8?ace
+CCTV11 戏曲,http://36.251.58.50:6060/TVOD/1000000005000265011/ystenlive/index.m3u8?ace
+CCTV11 戏曲,http://36.251.58.50:6060/TVOD/5000000006000040011/bestzb/index.m3u8?ace
+CCTV11 戏曲,http://36.251.58.50:6060/TVOD/1000000002000019789/ystenlive/index.m3u8?ace
 CCTV12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
 CCTV12,http://36.25.232.33:8888/udp/233.50.201.123:5140
 CCTV12,http://115.221.83.182:8888/udp/233.50.201.123:5140
@@ -230,6 +262,18 @@ CCTV12,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&a
 CCTV12,http://183.11.239.36:808/hls/30/index.m3u8
 CCTV12,http://180.103.216.177:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv12
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/6000000001000022586/wasusyt/index.m3u8?ace
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/1000000001000032494/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/5000000011000031107/bestzb/index.m3u8?ace
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/1000000005000265012/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/1000000001000001640/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://47.92.130.115:9000/TVOD/5000000006000040012/bestzb/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/6000000001000022586/wasusyt/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/1000000001000032494/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/5000000011000031107/bestzb/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/1000000005000265012/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/1000000001000001640/ystenlive/index.m3u8?ace
+CCTV12 社会与法,http://36.251.58.50:6060/TVOD/5000000006000040012/bestzb/index.m3u8?ace
 CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
 CCTV13,http://36.25.232.33:8888/udp/233.50.201.246:5140
 CCTV13,http://115.221.83.182:8888/udp/233.50.201.246:5140
@@ -256,6 +300,12 @@ CCTV13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&a
 CCTV13,http://183.11.239.36:808/hls/31/index.m3u8
 CCTV13,http://180.103.216.177:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv13
+CCTV13 新闻,http://47.92.130.115:9000/TVOD/5000000011000031108/bestzb/index.m3u8?ace
+CCTV13 新闻,http://47.92.130.115:9000/TVOD/5000000005000001827/bestzb/index.m3u8?ace
+CCTV13 新闻,http://47.92.130.115:9000/TVOD/1000000002000021303/ystenlive/index.m3u8?ace
+CCTV13 新闻,http://36.251.58.50:6060/TVOD/5000000011000031108/bestzb/index.m3u8?ace
+CCTV13 新闻,http://36.251.58.50:6060/TVOD/5000000005000001827/bestzb/index.m3u8?ace
+CCTV13 新闻,http://36.251.58.50:6060/TVOD/1000000002000021303/ystenlive/index.m3u8?ace
 CCTV14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
 CCTV14,http://36.25.232.33:8888/udp/233.50.201.124:5140
 CCTV14,http://115.221.83.182:8888/udp/233.50.201.124:5140
@@ -279,6 +329,18 @@ CCTV14,http://116.9.204.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&a
 CCTV14,http://183.11.239.36:808/hls/32/index.m3u8
 CCTV14,http://180.103.216.177:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv14
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/5000000004000006673/bestzb/index.m3u8?ace
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/6000000001000013647/wasusyt/index.m3u8?ace
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/1000000001000008170/ystenlive/index.m3u8?ace
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/1000000005000265013/ystenlive/index.m3u8?ace
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/5000000010000023358/bestzb/index.m3u8?ace
+CCTV14 少儿,http://47.92.130.115:9000/TVOD/1000000001000021349/ystenlive/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/5000000004000006673/bestzb/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/6000000001000013647/wasusyt/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/1000000001000008170/ystenlive/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/1000000005000265013/ystenlive/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/5000000010000023358/bestzb/index.m3u8?ace
+CCTV14 少儿,http://36.251.58.50:6060/TVOD/1000000001000021349/ystenlive/index.m3u8?ace
 CCTV15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
 CCTV15,http://36.25.232.33:8888/udp/233.50.201.15:5140
 CCTV15,http://115.221.83.182:8888/udp/233.50.201.15:5140
@@ -302,6 +364,12 @@ CCTV15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&a
 CCTV15,http://183.11.239.36:808/hls/102/index.m3u8
 CCTV15,http://180.103.216.177:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv15
+CCTV15 音乐,http://47.92.130.115:9000/TVOD/5000000011000031109/bestzb/index.m3u8?ace
+CCTV15 音乐,http://47.92.130.115:9000/TVOD/1000000005000265014/ystenlive/index.m3u8?ace
+CCTV15 音乐,http://47.92.130.115:9000/TVOD/1000000002000008163/ystenlive/index.m3u8?ace
+CCTV15 音乐,http://36.251.58.50:6060/TVOD/5000000011000031109/bestzb/index.m3u8?ace
+CCTV15 音乐,http://36.251.58.50:6060/TVOD/1000000005000265014/ystenlive/index.m3u8?ace
+CCTV15 音乐,http://36.251.58.50:6060/TVOD/1000000002000008163/ystenlive/index.m3u8?ace
 CCTV16,http://36.25.232.33:8888/udp/233.50.201.192:5140
 CCTV16,http://115.221.83.182:8888/udp/233.50.201.192:5140
 CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -315,6 +383,14 @@ CCTV16,http://223.105.252.60/PLTV/4/224/3221228320/index.m3u8?servicetype=1
 CCTV16,http://223.105.252.60/PLTV/4/224/3221228516/index.m3u8?servicetype=1
 CCTV16 4k,http://36.25.232.33:8888/udp/233.50.201.63:5140
 CCTV16 4k,http://115.221.83.182:8888/udp/233.50.201.63:5140
+CCTV16 奥林匹克,http://47.92.130.115:9000/TVOD/1000000006000233002/ystenlive/index.m3u8?ace
+CCTV16 奥林匹克,http://47.92.130.115:9000/TVOD/5000000008000023253/bestzb/index.m3u8?ace
+CCTV16 奥林匹克,http://47.92.130.115:9000/TVOD/1000000006000233001/ystenlive/index.m3u8?ace
+CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/1000000006000233002/ystenlive/index.m3u8?ace
+CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/5000000008000023253/bestzb/index.m3u8?ace
+CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/1000000006000233001/ystenlive/index.m3u8?ace
+CCTV16 奥林匹克4K,http://47.92.130.115:9000/TVOD/5000000008000023254/bestzb/index.m3u8?ace
+CCTV16 奥林匹克4K,http://36.251.58.50:6060/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
 CCTV17,http://36.25.232.33:8888/udp/233.50.201.35:5140
 CCTV17,http://115.221.83.182:8888/udp/233.50.201.35:5140
@@ -331,6 +407,12 @@ CCTV17,http://111.160.17.2:59901/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&
 CCTV17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8
 CCTV17,http://183.11.239.36:808/hls/35/index.m3u8
 CCTV17,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv17
+CCTV17 农业农村,http://47.92.130.115:9000/TVOD/1000000006000268004/ystenlive/index.m3u8?ace
+CCTV17 农业农村,http://47.92.130.115:9000/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
+CCTV17 农业农村,http://47.92.130.115:9000/TVOD/1000000005000056836/ystenlive/index.m3u8?ace
+CCTV17 农业农村,http://36.251.58.50:6060/TVOD/1000000006000268004/ystenlive/index.m3u8?ace
+CCTV17 农业农村,http://36.251.58.50:6060/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
+CCTV17 农业农村,http://36.251.58.50:6060/TVOD/1000000005000056836/ystenlive/index.m3u8?ace
 CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 CCTV2,http://36.25.232.33:8888/udp/233.50.201.119:5140
 CCTV2,http://115.221.83.182:8888/udp/233.50.201.119:5140
@@ -357,6 +439,16 @@ CCTV2,http://180.103.216.177:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&
 CCTV2,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv2
 CCTV2,http://223.105.252.60/PLTV/4/224/3221228118/index.m3u8?servicetype=1
 CCTV2,http://223.105.252.60/PLTV/4/224/3221228720/index.m3u8?servicetype=1
+CCTV2 财经,http://47.92.130.115:9000/TVOD/6000000001000014161/wasusyt/index.m3u8?ace
+CCTV2 财经,http://47.92.130.115:9000/TVOD/1000000001000023315/ystenlive/index.m3u8?ace
+CCTV2 财经,http://47.92.130.115:9000/TVOD/5000000011000031101/bestzb/index.m3u8?ace
+CCTV2 财经,http://47.92.130.115:9000/TVOD/1000000005000265002/ystenlive/index.m3u8?ace
+CCTV2 财经,http://47.92.130.115:9000/TVOD/1000000001000012442/ystenlive/index.m3u8?ace
+CCTV2 财经,http://36.251.58.50:6060/TVOD/6000000001000014161/wasusyt/index.m3u8?ace
+CCTV2 财经,http://36.251.58.50:6060/TVOD/1000000001000023315/ystenlive/index.m3u8?ace
+CCTV2 财经,http://36.251.58.50:6060/TVOD/5000000011000031101/bestzb/index.m3u8?ace
+CCTV2 财经,http://36.251.58.50:6060/TVOD/1000000005000265002/ystenlive/index.m3u8?ace
+CCTV2 财经,http://36.251.58.50:6060/TVOD/1000000001000012442/ystenlive/index.m3u8?ace
 CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
 CCTV3,http://36.25.232.33:8888/udp/233.50.201.196:5140
 CCTV3,http://115.221.83.182:8888/udp/233.50.201.196:5140
@@ -383,6 +475,18 @@ CCTV3,http://180.103.216.177:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&
 CCTV3,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv3
 CCTV3,http://223.105.252.60/PLTV/4/224/3221228188/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.60/PLTV/4/224/3221228237/index.m3u8?servicetype=1
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/6000000001000022313/wasusyt/index.m3u8?ace
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/1000000001000013682/ystenlive/index.m3u8?ace
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/5000000004000008883/bestzb/index.m3u8?ace
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/1000000005000265003/ystenlive/index.m3u8?ace
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/5000000002000020548/bestzb/index.m3u8?ace
+CCTV3 综艺,http://47.92.130.115:9000/TVOD/1000000001000011218/ystenlive/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/6000000001000022313/wasusyt/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/1000000001000013682/ystenlive/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/5000000004000008883/bestzb/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/1000000005000265003/ystenlive/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/5000000002000020548/bestzb/index.m3u8?ace
+CCTV3 综艺,http://36.251.58.50:6060/TVOD/1000000001000011218/ystenlive/index.m3u8?ace
 CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
 CCTV4,http://36.25.232.33:8888/udp/233.50.201.4:5140
 CCTV4,http://115.221.83.182:8888/udp/233.50.201.4:5140
@@ -408,6 +512,14 @@ CCTV4,http://183.11.239.36:808/hls/22/index.m3u8
 CCTV4,http://180.103.216.177:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv4
 CCTV4,http://223.105.252.60/PLTV/4/224/3221228156/index.m3u8?servicetype=1
+CCTV4 中文国际,http://47.92.130.115:9000/TVOD/5000000011000031102/bestzb/index.m3u8?ace
+CCTV4 中文国际,http://47.92.130.115:9000/TVOD/1000000005000265004/ystenlive/index.m3u8?ace
+CCTV4 中文国际,http://47.92.130.115:9000/TVOD/1000000002000031664/ystenlive/index.m3u8?ace
+CCTV4 中文国际,http://47.92.130.115:9000/TVOD/5000000005000030093/bestzb/index.m3u8?ace
+CCTV4 中文国际,http://36.251.58.50:6060/TVOD/5000000011000031102/bestzb/index.m3u8?ace
+CCTV4 中文国际,http://36.251.58.50:6060/TVOD/1000000005000265004/ystenlive/index.m3u8?ace
+CCTV4 中文国际,http://36.251.58.50:6060/TVOD/1000000002000031664/ystenlive/index.m3u8?ace
+CCTV4 中文国际,http://36.251.58.50:6060/TVOD/5000000005000030093/bestzb/index.m3u8?ace
 CCTV4中文国际欧洲,http://183.11.239.36:808/hls/67/index.m3u8
 CCTV4中文国际美洲,http://183.11.239.36:808/hls/77/index.m3u8
 CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
@@ -435,6 +547,20 @@ CCTV5,http://183.11.239.36:808/hls/93/index.m3u8
 CCTV5,http://180.103.216.177:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5
 CCTV5,http://223.105.252.60/PLTV/4/224/3221228173/index.m3u8?servicetype=1
+CCTV5 体育,http://47.92.130.115:9000/TVOD/1000000005000025222/ystenlive/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/6000000001000016431/wasusyt/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/1000000003000030177/ystenlive/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/5000000004000008885/bestzb/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/1000000005000265005/ystenlive/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/5000000010000016619/bestzb/index.m3u8?ace
+CCTV5 体育,http://47.92.130.115:9000/TVOD/1000000001000004794/ystenlive/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/1000000005000025222/ystenlive/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/6000000001000016431/wasusyt/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/1000000003000030177/ystenlive/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/5000000004000008885/bestzb/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/1000000005000265005/ystenlive/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/5000000010000016619/bestzb/index.m3u8?ace
+CCTV5 体育,http://36.251.58.50:6060/TVOD/1000000001000004794/ystenlive/index.m3u8?ace
 CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
 CCTV5+,http://36.25.232.33:8888/udp/233.50.201.220:5140
 CCTV5+,http://115.221.83.182:8888/udp/233.50.201.220:5140
@@ -453,6 +579,16 @@ CCTV5+,http://222.134.245.16:9901/tsfile/live/0016_1.m3u8
 CCTV5+,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5p
 CCTV5+,http://223.105.252.60/PLTV/4/224/3221228114/index.m3u8?servicetype=1
 CCTV5+,http://223.105.252.60/PLTV/4/224/3221228076/index.m3u8?servicetype=1
+CCTV5+ 体育赛事,http://47.92.130.115:9000/TVOD/6000000001000015875/wasusyt/index.m3u8?ace
+CCTV5+ 体育赛事,http://47.92.130.115:9000/TVOD/1000000001000018504/ystenlive/index.m3u8?ace
+CCTV5+ 体育赛事,http://47.92.130.115:9000/TVOD/5000000011000031127/bestzb/index.m3u8?ace
+CCTV5+ 体育赛事,http://47.92.130.115:9000/TVOD/1000000005000265016/ystenlive/index.m3u8?ace
+CCTV5+ 体育赛事,http://47.92.130.115:9000/TVOD/1000000001000020505/ystenlive/index.m3u8?ace
+CCTV5+ 体育赛事,http://36.251.58.50:6060/TVOD/6000000001000015875/wasusyt/index.m3u8?ace
+CCTV5+ 体育赛事,http://36.251.58.50:6060/TVOD/1000000001000018504/ystenlive/index.m3u8?ace
+CCTV5+ 体育赛事,http://36.251.58.50:6060/TVOD/5000000011000031127/bestzb/index.m3u8?ace
+CCTV5+ 体育赛事,http://36.251.58.50:6060/TVOD/1000000005000265016/ystenlive/index.m3u8?ace
+CCTV5+ 体育赛事,http://36.251.58.50:6060/TVOD/1000000001000020505/ystenlive/index.m3u8?ace
 CCTV6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
 CCTV6,http://36.25.232.33:8888/udp/233.50.201.198:5140
 CCTV6,http://115.221.83.182:8888/udp/233.50.201.198:5140
@@ -479,6 +615,18 @@ CCTV6,http://180.103.216.177:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&
 CCTV6,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv6
 CCTV6,http://223.105.252.60/PLTV/4/224/3221228185/index.m3u8?servicetype=1
 CCTV6,http://223.105.252.60/PLTV/4/224/3221228196/index.m3u8?servicetype=1
+CCTV6 电影,http://47.92.130.115:9000/TVOD/6000000001000004574/wasusyt/index.m3u8?ace
+CCTV6 电影,http://47.92.130.115:9000/TVOD/1000000001000001737/ystenlive/index.m3u8?ace
+CCTV6 电影,http://47.92.130.115:9000/TVOD/5000000004000008886/bestzb/index.m3u8?ace
+CCTV6 电影,http://47.92.130.115:9000/TVOD/1000000005000265006/ystenlive/index.m3u8?ace
+CCTV6 电影,http://47.92.130.115:9000/TVOD/5000000010000018433/bestzb/index.m3u8?ace
+CCTV6 电影,http://47.92.130.115:9000/TVOD/1000000001000016466/ystenlive/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/6000000001000004574/wasusyt/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/1000000001000001737/ystenlive/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/5000000004000008886/bestzb/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/1000000005000265006/ystenlive/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/5000000010000018433/bestzb/index.m3u8?ace
+CCTV6 电影,http://36.251.58.50:6060/TVOD/1000000001000016466/ystenlive/index.m3u8?ace
 CCTV7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
 CCTV7,http://36.25.232.33:8888/udp/233.50.201.120:5140
 CCTV7,http://115.221.83.182:8888/udp/233.50.201.120:5140
@@ -503,6 +651,18 @@ CCTV7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 CCTV7,http://183.11.239.36:808/hls/25/index.m3u8
 CCTV7,http://180.103.216.177:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv7
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/6000000001000009055/wasusyt/index.m3u8?ace
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/1000000001000024341/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/5000000011000031104/bestzb/index.m3u8?ace
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/1000000005000265007/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/1000000001000017218/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://47.92.130.115:9000/TVOD/5000000005000026715/bestzb/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/6000000001000009055/wasusyt/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/1000000001000024341/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/5000000011000031104/bestzb/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/1000000005000265007/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/1000000001000017218/ystenlive/index.m3u8?ace
+CCTV7 国防军事,http://36.251.58.50:6060/TVOD/5000000005000026715/bestzb/index.m3u8?ace
 CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
 CCTV8,http://36.25.232.33:8888/udp/233.50.201.199:5140
 CCTV8,http://115.221.83.182:8888/udp/233.50.201.199:5140
@@ -528,6 +688,18 @@ CCTV8,http://183.11.239.36:808/hls/96/index.m3u8
 CCTV8,http://180.103.216.177:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv8
 CCTV8,http://223.105.252.60/PLTV/4/224/3221228079/index.m3u8?servicetype=1
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/6000000001000001070/wasusyt/index.m3u8?ace
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/1000000001000031433/ystenlive/index.m3u8?ace
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/5000000004000008888/bestzb/index.m3u8?ace
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/1000000005000265008/ystenlive/index.m3u8?ace
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/5000000010000018377/bestzb/index.m3u8?ace
+CCTV8 电视剧,http://47.92.130.115:9000/TVOD/1000000001000003736/ystenlive/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/6000000001000001070/wasusyt/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/1000000001000031433/ystenlive/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/5000000004000008888/bestzb/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/1000000005000265008/ystenlive/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/5000000010000018377/bestzb/index.m3u8?ace
+CCTV8 电视剧,http://36.251.58.50:6060/TVOD/1000000001000003736/ystenlive/index.m3u8?ace
 CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
 CCTV9,http://36.25.232.33:8888/udp/233.50.201.121:5140
 CCTV9,http://115.221.83.182:8888/udp/233.50.201.121:5140
@@ -552,6 +724,16 @@ CCTV9,http://183.11.239.36:808/hls/27/index.m3u8
 CCTV9,http://180.103.216.177:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv9
 CCTV9,http://223.105.252.60/PLTV/4/224/3221228723/index.m3u8?servicetype=1
+CCTV9 记录,http://47.92.130.115:9000/TVOD/6000000001000032162/wasusyt/index.m3u8?ace
+CCTV9 记录,http://47.92.130.115:9000/TVOD/1000000001000014583/ystenlive/index.m3u8?ace
+CCTV9 记录,http://47.92.130.115:9000/TVOD/1000000005000265009/ystenlive/index.m3u8?ace
+CCTV9 记录,http://47.92.130.115:9000/TVOD/5000000010000018384/bestzb/index.m3u8?ace
+CCTV9 记录,http://47.92.130.115:9000/TVOD/1000000001000028286/ystenlive/index.m3u8?ace
+CCTV9 记录,http://36.251.58.50:6060/TVOD/6000000001000032162/wasusyt/index.m3u8?ace
+CCTV9 记录,http://36.251.58.50:6060/TVOD/1000000001000014583/ystenlive/index.m3u8?ace
+CCTV9 记录,http://36.251.58.50:6060/TVOD/1000000005000265009/ystenlive/index.m3u8?ace
+CCTV9 记录,http://36.251.58.50:6060/TVOD/5000000010000018384/bestzb/index.m3u8?ace
+CCTV9 记录,http://36.251.58.50:6060/TVOD/1000000001000028286/ystenlive/index.m3u8?ace
 CCTVCCTV台球,http://106.46.147.82:10443/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTVCCTV文化精品,http://106.46.147.82:10443/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTVNEWS,http://123.138.22.30:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -717,6 +899,8 @@ Q版三国剧集,http://159.75.85.63:35455/huya/29465871
 RM 刘在石李光洙跑男,http://182.40.120.191/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8
 ROCK,http://37.27.111.214:8080/live/70/hls.m3u8
 ROCK ACTION,http://37.27.111.214:8080/live/94/hls.m3u8
+SiTV欢笑剧场4K,http://47.92.130.115:9000/TVOD/5000000007000010001/bestzb/index.m3u8?ace
+SiTV欢笑剧场4K,http://36.251.58.50:6060/TVOD/5000000007000010001/bestzb/index.m3u8?ace
 TECH STORM,http://37.27.111.214:8080/live/80/hls.m3u8
 TV5 MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
 TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
@@ -847,12 +1031,60 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 上海|新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 上海|法治天地,http://120.76.248.139/live/bfgd/4200000162.m3u8
 上海东方卫视,http://180.213.174.225:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+上海东方卫视,http://47.92.130.115:9000/TVOD/5000000004000014098/bestzb/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/1000000005000265018/ystenlive/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/5000000010000032246/bestzb/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/1000000001000030202/ystenlive/index.m3u8?ace
+上海东方卫视,http://47.92.130.115:9000/TVOD/2000000002000000056/hnbblive/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/5000000004000014098/bestzb/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/6000000001000003639/wasusyt/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/1000000001000005866/ystenlive/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/1000000005000265018/ystenlive/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/5000000010000032246/bestzb/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/1000000001000030202/ystenlive/index.m3u8?ace
+上海东方卫视,http://36.251.58.50:6060/TVOD/2000000002000000056/hnbblive/index.m3u8?ace
+上海东方影视,http://47.92.130.115:9000/TVOD/5000000010000032212/bestzb/index.m3u8?ace
+上海东方影视,http://47.92.130.115:9000/TVOD/2000000002000000013/hnbblive/index.m3u8?ace
+上海东方影视,http://36.251.58.50:6060/TVOD/5000000010000032212/bestzb/index.m3u8?ace
+上海东方影视,http://36.251.58.50:6060/TVOD/2000000002000000013/hnbblive/index.m3u8?ace
+上海五星体育,http://47.92.130.115:9000/TVOD/5000000010000017540/bestzb/index.m3u8?ace
+上海五星体育,http://47.92.130.115:9000/TVOD/2000000002000000007/hnbblive/index.m3u8?ace
+上海五星体育,http://36.251.58.50:6060/TVOD/5000000010000017540/bestzb/index.m3u8?ace
+上海五星体育,http://36.251.58.50:6060/TVOD/2000000002000000007/hnbblive/index.m3u8?ace
 上海卫视,http://106.46.147.82:10443/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://113.57.93.165:9900/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://113.57.20.158:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://111.160.17.2:59901/tsfile/live/0001_42.m3u8$联通酒店
 上海卫视,http://111.160.17.2:59901/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+上海哈哈炫动,http://47.92.130.115:9000/TVOD/5000000011000031123/bestzb/index.m3u8?ace
+上海哈哈炫动,http://47.92.130.115:9000/TVOD/5000000005000031641/bestzb/index.m3u8?ace
+上海哈哈炫动,http://47.92.130.115:9000/TVOD/1000000002000000172/ystenlive/index.m3u8?ace
+上海哈哈炫动,http://36.251.58.50:6060/TVOD/5000000011000031123/bestzb/index.m3u8?ace
+上海哈哈炫动,http://36.251.58.50:6060/TVOD/5000000005000031641/bestzb/index.m3u8?ace
+上海哈哈炫动,http://36.251.58.50:6060/TVOD/1000000002000000172/ystenlive/index.m3u8?ace
+上海新闻综合,http://47.92.130.115:9000/TVOD/5000000011000031110/bestzb/index.m3u8?ace
+上海新闻综合,http://47.92.130.115:9000/TVOD/2000000002000000005/hnbblive/index.m3u8?ace
+上海新闻综合,http://36.251.58.50:6060/TVOD/5000000011000031110/bestzb/index.m3u8?ace
+上海新闻综合,http://36.251.58.50:6060/TVOD/2000000002000000005/hnbblive/index.m3u8?ace
+上海法治天地,http://47.92.130.115:9000/TVOD/2000000002000000014/hnbblive/index.m3u8?ace
+上海法治天地,http://36.251.58.50:6060/TVOD/2000000002000000014/hnbblive/index.m3u8?ace
+上海纪实人文,http://47.92.130.115:9000/TVOD/1000000001000016545/ystenlive/index.m3u8?ace
+上海纪实人文,http://47.92.130.115:9000/TVOD/5000000004000010282/bestzb/index.m3u8?ace
+上海纪实人文,http://47.92.130.115:9000/TVOD/1000000005000265021/ystenlive/index.m3u8?ace
+上海纪实人文,http://47.92.130.115:9000/TVOD/5000000001000021713/bestzb/index.m3u8?ace
+上海纪实人文,http://47.92.130.115:9000/TVOD/1000000001000010606/ystenlive/index.m3u8?ace
+上海纪实人文,http://36.251.58.50:6060/TVOD/1000000001000016545/ystenlive/index.m3u8?ace
+上海纪实人文,http://36.251.58.50:6060/TVOD/5000000004000010282/bestzb/index.m3u8?ace
+上海纪实人文,http://36.251.58.50:6060/TVOD/1000000005000265021/ystenlive/index.m3u8?ace
+上海纪实人文,http://36.251.58.50:6060/TVOD/5000000001000021713/bestzb/index.m3u8?ace
+上海纪实人文,http://36.251.58.50:6060/TVOD/1000000001000010606/ystenlive/index.m3u8?ace
+上海都市,http://47.92.130.115:9000/TVOD/5000000010000018926/bestzb/index.m3u8?ace
+上海都市,http://47.92.130.115:9000/TVOD/2000000002000000012/hnbblive/index.m3u8?ace
+上海都市,http://36.251.58.50:6060/TVOD/5000000010000018926/bestzb/index.m3u8?ace
+上海都市,http://36.251.58.50:6060/TVOD/2000000002000000012/hnbblive/index.m3u8?ace
 上饶经济旅游,http://117.72.68.25:9930/jxtv.php?id=15
 上饶综合,http://117.72.68.25:9930/jxtv.php?id=14
 不挤电影院也能笑着过春节！,http://182.40.120.229/test-txdwk.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
@@ -1011,6 +1243,12 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 云南卫视,http://124.128.73.58:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://222.134.245.16:9901/tsfile/live/0119_1.m3u8
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
+云南卫视,http://47.92.130.115:9000/TVOD/5000000011000031120/bestzb/index.m3u8?ace
+云南卫视,http://47.92.130.115:9000/TVOD/1000000002000024694/ystenlive/index.m3u8?ace
+云南卫视,http://47.92.130.115:9000/TVOD/5000000006000040019/bestzb/index.m3u8?ace
+云南卫视,http://36.251.58.50:6060/TVOD/5000000011000031120/bestzb/index.m3u8?ace
+云南卫视,http://36.251.58.50:6060/TVOD/1000000002000024694/ystenlive/index.m3u8?ace
+云南卫视,http://36.251.58.50:6060/TVOD/5000000006000040019/bestzb/index.m3u8?ace
 云南卫视,http://180.103.216.177:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://117.144.58.42:35455/itv/5000000011000031120.m3u8?cdn=bestzb&Contentid=5000000011000031120
 云南卫视,http://171.88.145.30:4022/rtp/239.93.1.174:5140
@@ -1096,6 +1334,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
+兵团卫视,http://47.92.130.115:9000/TVOD/1000000005000266005/ystenlive/index.m3u8?ace
+兵团卫视,http://47.92.130.115:9000/TVOD/5000000006000040020/bestzb/index.m3u8?ace
+兵团卫视,http://36.251.58.50:6060/TVOD/1000000005000266005/ystenlive/index.m3u8?ace
+兵团卫视,http://36.251.58.50:6060/TVOD/5000000006000040020/bestzb/index.m3u8?ace
 兵团卫视,http://171.88.145.30:4022/rtp/239.93.42.43:5140
 兵团卫视,http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
 内江公共,http://60.255.240.247:8090/live/njgg_4000.m3u8
@@ -1114,6 +1356,8 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 内蒙古卫视,http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
+内蒙古卫视,http://47.92.130.115:9000/TVOD/1000000002000014080/ystenlive/index.m3u8?ace
+内蒙古卫视,http://36.251.58.50:6060/TVOD/1000000002000014080/ystenlive/index.m3u8?ace
 内蒙古卫视,http://180.103.216.177:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://171.88.145.30:4022/rtp/239.93.0.8:5140
 内蒙古卫视,http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
@@ -1236,6 +1480,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://116.9.204.242:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://183.11.239.36:808/hls/41/index.m3u8
+北京卫视,http://47.92.130.115:9000/TVOD/6000000001000020451/wasusyt/index.m3u8?ace
+北京卫视,http://47.92.130.115:9000/TVOD/1000000001000021288/ystenlive/index.m3u8?ace
+北京卫视,http://47.92.130.115:9000/TVOD/5000000004000031556/bestzb/index.m3u8?ace
+北京卫视,http://47.92.130.115:9000/TVOD/1000000005000265027/ystenlive/index.m3u8?ace
+北京卫视,http://47.92.130.115:9000/TVOD/5000000010000011502/bestzb/index.m3u8?ace
+北京卫视,http://47.92.130.115:9000/TVOD/1000000001000017156/ystenlive/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/6000000001000020451/wasusyt/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/1000000001000021288/ystenlive/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/5000000004000031556/bestzb/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/1000000005000265027/ystenlive/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/5000000010000011502/bestzb/index.m3u8?ace
+北京卫视,http://36.251.58.50:6060/TVOD/1000000001000017156/ystenlive/index.m3u8?ace
 北京卫视,http://180.103.216.177:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://223.105.252.60/PLTV/4/224/3221228115/index.m3u8?servicetype=1
 北京卫视,http://117.144.58.42:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
@@ -1277,6 +1533,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 医馆里上演离奇案件，看逗趣师徒如何以智破局,http://182.40.120.180/test-txdwk.flv.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8
 千禧经典,http://205.185.123.236:8899/astro/qianxi/qianxi.m3u8
 千面影帝梁家辉,http://182.40.120.216/test-txdwk.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
+华数4K,http://47.92.130.115:9000/TVOD/6000000003000004748/wasusyt/index.m3u8?ace
+华数4K,http://47.92.130.115:9000/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
+华数4K,http://36.251.58.50:6060/TVOD/6000000003000004748/wasusyt/index.m3u8?ace
+华数4K,http://36.251.58.50:6060/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
 华数电影,http://27.12.165.147:4022/udp/225.0.4.172:7980$官方源
 华蓥综合,http://60.255.240.247:8090/live/hyxw_2000.m3u8
 华视,http://106.53.99.30/公众号【榴芒电视】/proxy/tw.php?id=10
@@ -1314,6 +1574,8 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 厦门卫视,http://183.11.239.36:808/hls/17/index.m3u8
 厦门卫视,http://106.53.99.30/dl/xmtv.php?id=xmws$厦门电视台
 厦门卫视,http://110.80.17.38:9901/tsfile/live/0128_1.m3u8$福建电信
+厦门卫视,http://47.92.130.115:9000/TVOD/1000000005000266006/ystenlive/index.m3u8?ace
+厦门卫视,http://36.251.58.50:6060/TVOD/1000000005000266006/ystenlive/index.m3u8?ace
 厦门卫视,http://171.88.145.30:4022/rtp/239.93.42.57:5140
 厦门移动,http://106.53.99.30/dl/xmtv.php?id=xmyd$厦门电视台
 厨子戏子痞子,http://182.40.120.229/test-txdwk.flv.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
@@ -1356,6 +1618,12 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 吉林卫视,http://124.128.73.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://222.134.245.16:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://183.11.239.36:808/hls/10/index.m3u8
+吉林卫视,http://47.92.130.115:9000/TVOD/5000000011000031117/bestzb/index.m3u8?ace
+吉林卫视,http://47.92.130.115:9000/TVOD/1000000002000027730/ystenlive/index.m3u8?ace
+吉林卫视,http://47.92.130.115:9000/TVOD/5000000006000040013/bestzb/index.m3u8?ace
+吉林卫视,http://36.251.58.50:6060/TVOD/5000000011000031117/bestzb/index.m3u8?ace
+吉林卫视,http://36.251.58.50:6060/TVOD/1000000002000027730/ystenlive/index.m3u8?ace
+吉林卫视,http://36.251.58.50:6060/TVOD/5000000006000040013/bestzb/index.m3u8?ace
 吉林卫视,http://180.103.216.177:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://117.144.58.42:35455/itv/5000000011000031117.m3u8?cdn=bestzb&Contentid=5000000011000031117
 吉林卫视,http://171.88.145.30:4022/rtp/239.93.0.248:5140
@@ -1363,6 +1631,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 吉林卫视HD,http://120.76.248.139/live/bfgd/4200000097.m3u8
 吉林卫视高清,http://119.32.12.32:2901/udp/224.1.100.60:11111
 吉林延边卫视,http://183.11.239.36:808/hls/15/index.m3u8
+吉林延边卫视,http://47.92.130.115:9000/TVOD/2000000003000000049/hnbblive/index.m3u8?ace
+吉林延边卫视,http://47.92.130.115:9000/TVOD/1000000005000266008/ystenlive/index.m3u8?ace
+吉林延边卫视,http://36.251.58.50:6060/TVOD/2000000003000000049/hnbblive/index.m3u8?ace
+吉林延边卫视,http://36.251.58.50:6060/TVOD/1000000005000266008/ystenlive/index.m3u8?ace
 名山,http://60.255.240.247:8090/live/msdstH265_2000.m3u8
 启航:当风起时, 90年代信息产业发展史,http://182.40.120.186/test-txdwk.flv.huya.com/src/1239543153981-1239543153981-11135015100736339968-2479086431418-10057-A-0-1.m3u8
 周口-4,http://117.159.72.12:8081/live/6520562530090312540.m3u8
@@ -1474,12 +1746,20 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 四川卫视,http://222.134.245.16:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://183.11.239.36:808/hls/50/index.m3u8
 四川卫视,http://118.122.2.29:9999/hls/18/index.m3u8
+四川卫视,http://47.92.130.115:9000/TVOD/5000000004000006119/bestzb/index.m3u8?ace
+四川卫视,http://47.92.130.115:9000/TVOD/1000000002000016825/ystenlive/index.m3u8?ace
+四川卫视,http://36.251.58.50:6060/TVOD/5000000004000006119/bestzb/index.m3u8?ace
+四川卫视,http://36.251.58.50:6060/TVOD/1000000002000016825/ystenlive/index.m3u8?ace
 四川卫视,http://117.144.58.42:35455/itv/5000000004000006119.m3u8?cdn=bestzb&Contentid=5000000004000006119
 四川卫视,http://171.88.145.30:4022/rtp/239.93.0.20:1235
 四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视HD,http://120.76.248.139/live/bfgd/4200000103.m3u8
 四川卫视高清,http://119.32.12.32:2901/udp/224.1.100.72:11111
 四川妇女,http://60.255.240.247:8090/live/SCTV-7-_4000.m3u8
+四川康巴卫视,http://47.92.130.115:9000/TVOD/1000000005000266002/ystenlive/index.m3u8?ace
+四川康巴卫视,http://47.92.130.115:9000/TVOD/5000000003000001598/bestzb/index.m3u8?ace
+四川康巴卫视,http://36.251.58.50:6060/TVOD/1000000005000266002/ystenlive/index.m3u8?ace
+四川康巴卫视,http://36.251.58.50:6060/TVOD/5000000003000001598/bestzb/index.m3u8?ace
 四川影视,http://60.255.240.247:8090/live/SCTV-5-scysH265_4000.m3u8
 四川影视文艺,http://118.122.2.29:9999/hls/53/index.m3u8
 四川文化,http://60.255.240.247:8090/live/SCTV-2-H265_4000.m3u8
@@ -1566,6 +1846,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 天津卫视,http://222.134.245.16:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
 天津卫视,http://111.165.0.207:8888/udp/225.1.1.111:5002
+天津卫视,http://47.92.130.115:9000/TVOD/5000000004000006827/bestzb/index.m3u8?ace
+天津卫视,http://47.92.130.115:9000/TVOD/6000000001000009186/wasusyt/index.m3u8?ace
+天津卫视,http://47.92.130.115:9000/TVOD/1000000001000003475/ystenlive/index.m3u8?ace
+天津卫视,http://47.92.130.115:9000/TVOD/1000000005000265026/ystenlive/index.m3u8?ace
+天津卫视,http://47.92.130.115:9000/TVOD/5000000001000030788/bestzb/index.m3u8?ace
+天津卫视,http://47.92.130.115:9000/TVOD/1000000001000000831/ystenlive/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/5000000004000006827/bestzb/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/6000000001000009186/wasusyt/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/1000000001000003475/ystenlive/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/1000000005000265026/ystenlive/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/5000000001000030788/bestzb/index.m3u8?ace
+天津卫视,http://36.251.58.50:6060/TVOD/1000000001000000831/ystenlive/index.m3u8?ace
 天津卫视,http://180.103.216.177:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://117.144.58.42:35455/itv/1000000005000265026.m3u8?cdn=ystenlive&Contentid=1000000005000265026
 天津卫视,http://171.88.145.30:4022/rtp/239.93.0.167:5140
@@ -1616,6 +1908,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 宁夏卫视,http://222.134.245.16:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://183.11.239.36:808/hls/106/index.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
+宁夏卫视,http://47.92.130.115:9000/TVOD/1000000002000031451/ystenlive/index.m3u8?ace
+宁夏卫视,http://47.92.130.115:9000/TVOD/5000000006000040022/bestzb/index.m3u8?ace
+宁夏卫视,http://36.251.58.50:6060/TVOD/1000000002000031451/ystenlive/index.m3u8?ace
+宁夏卫视,http://36.251.58.50:6060/TVOD/5000000006000040022/bestzb/index.m3u8?ace
 宁夏卫视,http://171.88.145.30:4022/rtp/239.93.0.247:5140
 宁夏卫视,http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
 宁夏卫视标清,http://119.32.12.32:2901/udp/224.1.100.8:11111
@@ -1656,6 +1952,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://222.134.245.16:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://183.11.239.36:808/hls/40/index.m3u8
+安徽卫视,http://47.92.130.115:9000/TVOD/6000000001000009954/wasusyt/index.m3u8?ace
+安徽卫视,http://47.92.130.115:9000/TVOD/1000000001000030159/ystenlive/index.m3u8?ace
+安徽卫视,http://47.92.130.115:9000/TVOD/5000000004000023002/bestzb/index.m3u8?ace
+安徽卫视,http://47.92.130.115:9000/TVOD/1000000005000265025/ystenlive/index.m3u8?ace
+安徽卫视,http://47.92.130.115:9000/TVOD/5000000001000027288/bestzb/index.m3u8?ace
+安徽卫视,http://47.92.130.115:9000/TVOD/1000000001000020780/ystenlive/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/6000000001000009954/wasusyt/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/1000000001000030159/ystenlive/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/5000000004000023002/bestzb/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/1000000005000265025/ystenlive/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/5000000001000027288/bestzb/index.m3u8?ace
+安徽卫视,http://36.251.58.50:6060/TVOD/1000000001000020780/ystenlive/index.m3u8?ace
 安徽卫视,http://180.103.216.177:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://117.144.58.42:35455/itv/1000000001000030159.m3u8?cdn=ystenlive&Contentid=1000000001000030159
 安徽卫视,http://171.88.145.30:4022/rtp/239.93.1.106:5140
@@ -1721,6 +2029,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 山东卫视,http://120.224.178.16:9901/tsfile/live/0127_1.m3u8
 山东卫视,http://111.14.181.15:9901/tsfile/live/0131_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东卫视,http://124.128.73.58:9901/tsfile/live/0107_1.m3u8
+山东卫视,http://47.92.130.115:9000/TVOD/6000000001000004134/wasusyt/index.m3u8?ace
+山东卫视,http://47.92.130.115:9000/TVOD/1000000001000016568/ystenlive/index.m3u8?ace
+山东卫视,http://47.92.130.115:9000/TVOD/5000000004000020424/bestzb/index.m3u8?ace
+山东卫视,http://47.92.130.115:9000/TVOD/1000000005000265019/ystenlive/index.m3u8?ace
+山东卫视,http://47.92.130.115:9000/TVOD/5000000010000027763/bestzb/index.m3u8?ace
+山东卫视,http://47.92.130.115:9000/TVOD/1000000001000012807/ystenlive/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/6000000001000004134/wasusyt/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/1000000001000016568/ystenlive/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/5000000004000020424/bestzb/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/1000000005000265019/ystenlive/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/5000000010000027763/bestzb/index.m3u8?ace
+山东卫视,http://36.251.58.50:6060/TVOD/1000000001000012807/ystenlive/index.m3u8?ace
 山东卫视,http://180.103.216.177:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://117.144.58.42:35455/itv/1000000005000265019.m3u8?cdn=ystenlive&Contentid=1000000005000265019
 山东卫视,http://171.88.145.30:4022/rtp/239.93.0.168:5140
@@ -1734,6 +2054,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 山东教育,http://183.11.239.36:808/hls/72/index.m3u8
 山东教育卫视,http://106.46.147.82:10443/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育卫视,http://120.76.248.139/live/bfgd/4200000112.m3u8
+山东教育卫视,http://47.92.130.115:9000/TVOD/1000000002000004097/ystenlive/index.m3u8?ace
+山东教育卫视,http://47.92.130.115:9000/TVOD/2000000003000000013/hnbblive/index.m3u8?ace
+山东教育卫视,http://36.251.58.50:6060/TVOD/1000000002000004097/ystenlive/index.m3u8?ace
+山东教育卫视,http://36.251.58.50:6060/TVOD/2000000003000000013/hnbblive/index.m3u8?ace
 山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://58.57.21.166:9901/tsfile/live/1004_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东新闻,http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1765,6 +2089,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 山西卫视,http://222.134.245.16:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://183.11.239.36:808/hls/59/index.m3u8
 山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8
+山西卫视,http://47.92.130.115:9000/TVOD/1000000002000021220/ystenlive/index.m3u8?ace
+山西卫视,http://47.92.130.115:9000/TVOD/5000000006000040023/bestzb/index.m3u8?ace
+山西卫视,http://36.251.58.50:6060/TVOD/1000000002000021220/ystenlive/index.m3u8?ace
+山西卫视,http://36.251.58.50:6060/TVOD/5000000006000040023/bestzb/index.m3u8?ace
 山西卫视,http://180.103.216.177:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://171.88.145.30:4022/rtp/239.93.0.6:5140
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
@@ -1824,6 +2152,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
 广东卫视,http://14.112.86.101:4022/rtp/239.77.0.2:5146
 广东卫视,http://61.141.202.118:9901/tsfile/live/0125_2.m3u8
+广东卫视,http://47.92.130.115:9000/TVOD/5000000004000014694/bestzb/index.m3u8?ace
+广东卫视,http://47.92.130.115:9000/TVOD/6000000001000031076/wasusyt/index.m3u8?ace
+广东卫视,http://47.92.130.115:9000/TVOD/1000000001000014176/ystenlive/index.m3u8?ace
+广东卫视,http://47.92.130.115:9000/TVOD/1000000005000265034/ystenlive/index.m3u8?ace
+广东卫视,http://47.92.130.115:9000/TVOD/5000000010000030417/bestzb/index.m3u8?ace
+广东卫视,http://47.92.130.115:9000/TVOD/1000000001000028357/ystenlive/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/5000000004000014694/bestzb/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/6000000001000031076/wasusyt/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/1000000001000014176/ystenlive/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/1000000005000265034/ystenlive/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/5000000010000030417/bestzb/index.m3u8?ace
+广东卫视,http://36.251.58.50:6060/TVOD/1000000001000028357/ystenlive/index.m3u8?ace
 广东卫视,http://180.103.216.177:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://117.144.58.42:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
 广东卫视,http://171.88.145.30:4022/rtp/239.93.0.181:5140
@@ -1835,7 +2175,15 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 广东卫视高清,http://14.112.86.101:4022/rtp/239.77.1.19:5146
 广东卫视高清,http://14.112.86.101:4022/rtp/239.77.1.152:5146
 广东卫视高清,http://14.112.86.101:4022/rtp/239.77.0.84:5146
+广东嘉佳卡通,http://47.92.130.115:9000/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
+广东嘉佳卡通,http://47.92.130.115:9000/TVOD/6000000003000025508/wasusyt/index.m3u8?ace
+广东嘉佳卡通,http://36.251.58.50:6060/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
+广东嘉佳卡通,http://36.251.58.50:6060/TVOD/6000000003000025508/wasusyt/index.m3u8?ace
 广东大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
+广东大湾区卫视,http://47.92.130.115:9000/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
+广东大湾区卫视,http://47.92.130.115:9000/TVOD/1000000002000011619/ystenlive/index.m3u8?ace
+广东大湾区卫视,http://36.251.58.50:6060/TVOD/2000000003000000045/hnbblive/index.m3u8?ace
+广东大湾区卫视,http://36.251.58.50:6060/TVOD/1000000002000011619/ystenlive/index.m3u8?ace
 广东少儿,http://183.11.239.36:808/hls/175/index.m3u8
 广东少儿1080P,http://120.234.5.28:6000/udp/239.21.0.87:3688
 广东少儿标清,http://119.32.12.32:2901/udp/224.1.100.9:11111
@@ -1862,6 +2210,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 广东珠江,http://14.112.86.101:4022/rtp/239.77.0.3:5146
 广东珠江,http://14.112.86.101:4022/rtp/239.77.1.94:5146
 广东珠江,http://61.141.202.118:9901/tsfile/live/0125_3.m3u8
+广东珠江,http://47.92.130.115:9000/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
+广东珠江,http://47.92.130.115:9000/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
+广东珠江,http://36.251.58.50:6060/TVOD/2000000003000000033/hnbblive/index.m3u8?ace
+广东珠江,http://36.251.58.50:6060/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
 广东珠江,http://14.112.86.85:4022/udp/239.77.0.1:5146
 广东珠江,http://125.90.252.38:4022/udp/239.77.0.1:5146
 广东珠江1080P,http://120.234.5.28:6000/udp/239.20.0.64:3144
@@ -1913,6 +2265,12 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://183.11.239.36:808/hls/56/index.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://47.92.130.115:9000/TVOD/5000000011000031118/bestzb/index.m3u8?ace
+广西卫视,http://47.92.130.115:9000/TVOD/1000000002000019837/ystenlive/index.m3u8?ace
+广西卫视,http://47.92.130.115:9000/TVOD/5000000006000040014/bestzb/index.m3u8?ace
+广西卫视,http://36.251.58.50:6060/TVOD/5000000011000031118/bestzb/index.m3u8?ace
+广西卫视,http://36.251.58.50:6060/TVOD/1000000002000019837/ystenlive/index.m3u8?ace
+广西卫视,http://36.251.58.50:6060/TVOD/5000000006000040014/bestzb/index.m3u8?ace
 广西卫视,http://180.103.216.177:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://117.144.58.42:35455/itv/5000000011000031118.m3u8?cdn=bestzb&Contentid=5000000011000031118
 广西卫视,http://171.88.145.30:4022/rtp/239.93.42.46:5140
@@ -1989,6 +2347,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 探案电影,http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+探索纪录,http://47.92.130.115:9000/TVOD/2000000004000000007/hnbblive/index.m3u8?ace
+探索纪录,http://47.92.130.115:9000/TVOD/5359008697329269813/wasusyt/index.m3u8?ace
+探索纪录,http://36.251.58.50:6060/TVOD/2000000004000000007/hnbblive/index.m3u8?ace
+探索纪录,http://36.251.58.50:6060/TVOD/5359008697329269813/wasusyt/index.m3u8?ace
 探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 揭阳生活,http://120.234.5.28:6000/udp/239.21.0.92:3708
@@ -2013,6 +2375,8 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 新余教育,http://43.138.192.238:9000/hls/tva.m3u8
 新余新闻,http://43.138.192.238:9000/hls/tvb.m3u8
 新津,http://60.255.240.247:8090/live/xjzh_4000.m3u8
+新海南,http://47.92.130.115:9000/TVOD/2000000003000000011/hnbblive/index.m3u8?ace
+新海南,http://36.251.58.50:6060/TVOD/2000000003000000011/hnbblive/index.m3u8?ace
 新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://106.46.147.82:10443/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://221.2.148.205:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2026,6 +2390,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 新疆卫视,http://183.11.239.36:808/hls/65/index.m3u8
 新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8
 新疆卫视,http://106.53.99.30/公众号【榴芒电视】/proxy/xjtv.php?id=xjws
+新疆卫视,http://47.92.130.115:9000/TVOD/1000000002000029441/ystenlive/index.m3u8?ace
+新疆卫视,http://47.92.130.115:9000/TVOD/5000000006000040018/bestzb/index.m3u8?ace
+新疆卫视,http://36.251.58.50:6060/TVOD/1000000002000029441/ystenlive/index.m3u8?ace
+新疆卫视,http://36.251.58.50:6060/TVOD/5000000006000040018/bestzb/index.m3u8?ace
 新疆卫视,http://180.103.216.177:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://171.88.145.30:4022/rtp/239.93.0.194:5140
 新疆卫视,http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
@@ -2279,6 +2647,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 江苏卫视,http://222.134.245.16:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://116.9.204.242:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8
+江苏卫视,http://47.92.130.115:9000/TVOD/6000000001000014861/wasusyt/index.m3u8?ace
+江苏卫视,http://47.92.130.115:9000/TVOD/1000000001000001828/ystenlive/index.m3u8?ace
+江苏卫视,http://47.92.130.115:9000/TVOD/5000000004000019351/bestzb/index.m3u8?ace
+江苏卫视,http://47.92.130.115:9000/TVOD/1000000005000265030/ystenlive/index.m3u8?ace
+江苏卫视,http://47.92.130.115:9000/TVOD/5000000010000018509/bestzb/index.m3u8?ace
+江苏卫视,http://47.92.130.115:9000/TVOD/1000000001000004684/ystenlive/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/6000000001000014861/wasusyt/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/1000000001000001828/ystenlive/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/5000000004000019351/bestzb/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/1000000005000265030/ystenlive/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/5000000010000018509/bestzb/index.m3u8?ace
+江苏卫视,http://36.251.58.50:6060/TVOD/1000000001000004684/ystenlive/index.m3u8?ace
 江苏卫视,http://180.103.216.177:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://223.105.252.60/PLTV/4/224/3221228099/index.m3u8?servicetype=1
 江苏卫视,http://117.144.58.42:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
@@ -2324,6 +2704,16 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 江西卫视,http://183.11.239.36:808/hls/44/index.m3u8
 江西卫视,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
 江西卫视,http://117.72.68.25:9930/jxtv.php?id=1
+江西卫视,http://47.92.130.115:9000/TVOD/1000000006000268001/ystenlive/index.m3u8?ace
+江西卫视,http://47.92.130.115:9000/TVOD/5000000004000011210/bestzb/index.m3u8?ace
+江西卫视,http://47.92.130.115:9000/TVOD/1000000005000265032/ystenlive/index.m3u8?ace
+江西卫视,http://47.92.130.115:9000/TVOD/5000000001000032154/bestzb/index.m3u8?ace
+江西卫视,http://47.92.130.115:9000/TVOD/1000000001000013731/ystenlive/index.m3u8?ace
+江西卫视,http://36.251.58.50:6060/TVOD/1000000006000268001/ystenlive/index.m3u8?ace
+江西卫视,http://36.251.58.50:6060/TVOD/5000000004000011210/bestzb/index.m3u8?ace
+江西卫视,http://36.251.58.50:6060/TVOD/1000000005000265032/ystenlive/index.m3u8?ace
+江西卫视,http://36.251.58.50:6060/TVOD/5000000001000032154/bestzb/index.m3u8?ace
+江西卫视,http://36.251.58.50:6060/TVOD/1000000001000013731/ystenlive/index.m3u8?ace
 江西卫视,http://180.103.216.177:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://117.144.58.42:35455/itv/1000000006000268001.m3u8?cdn=ystenlive&Contentid=1000000006000268001
 江西卫视,http://171.88.145.30:4022/rtp/239.93.0.134:5140
@@ -2367,6 +2757,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 河北卫视,http://124.128.73.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://222.134.245.16:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://183.11.239.36:808/hls/54/index.m3u8
+河北卫视,http://47.92.130.115:9000/TVOD/5000000006000040016/bestzb/index.m3u8?ace
+河北卫视,http://47.92.130.115:9000/TVOD/1000000002000017118/ystenlive/index.m3u8?ace
+河北卫视,http://36.251.58.50:6060/TVOD/5000000006000040016/bestzb/index.m3u8?ace
+河北卫视,http://36.251.58.50:6060/TVOD/1000000002000017118/ystenlive/index.m3u8?ace
 河北卫视,http://180.103.216.177:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://117.144.58.42:35455/itv/5000000006000040016.m3u8?cdn=bestzb&Contentid=5000000006000040016
 河北卫视,http://171.88.145.30:4022/rtp/239.93.0.132:5140
@@ -2400,6 +2794,12 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 河南卫视,http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://222.134.245.16:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://183.11.239.36:808/hls/51/index.m3u8
+河南卫视,http://47.92.130.115:9000/TVOD/5000000011000031119/bestzb/index.m3u8?ace
+河南卫视,http://47.92.130.115:9000/TVOD/1000000002000027731/ystenlive/index.m3u8?ace
+河南卫视,http://47.92.130.115:9000/TVOD/5000000005000017925/bestzb/index.m3u8?ace
+河南卫视,http://36.251.58.50:6060/TVOD/5000000011000031119/bestzb/index.m3u8?ace
+河南卫视,http://36.251.58.50:6060/TVOD/1000000002000027731/ystenlive/index.m3u8?ace
+河南卫视,http://36.251.58.50:6060/TVOD/5000000005000017925/bestzb/index.m3u8?ace
 河南卫视,http://180.103.216.177:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://117.144.58.42:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
 河南卫视,http://171.88.145.30:4022/rtp/239.93.42.45:5140
@@ -2463,6 +2863,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 浙江卫视,http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://222.134.245.16:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://47.92.130.115:9000/TVOD/5000000004000007275/bestzb/index.m3u8?ace
+浙江卫视,http://47.92.130.115:9000/TVOD/6000000001000032070/wasusyt/index.m3u8?ace
+浙江卫视,http://47.92.130.115:9000/TVOD/1000000001000014260/ystenlive/index.m3u8?ace
+浙江卫视,http://47.92.130.115:9000/TVOD/1000000005000265031/ystenlive/index.m3u8?ace
+浙江卫视,http://47.92.130.115:9000/TVOD/5000000010000017320/bestzb/index.m3u8?ace
+浙江卫视,http://47.92.130.115:9000/TVOD/1000000001000009806/ystenlive/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/5000000004000007275/bestzb/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/6000000001000032070/wasusyt/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/1000000001000014260/ystenlive/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/1000000005000265031/ystenlive/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/5000000010000017320/bestzb/index.m3u8?ace
+浙江卫视,http://36.251.58.50:6060/TVOD/1000000001000009806/ystenlive/index.m3u8?ace
 浙江卫视,http://180.103.216.177:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://223.105.252.60/PLTV/4/224/3221228147/index.m3u8?servicetype=1
 浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
@@ -2474,6 +2886,8 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 浙江卫视高清,http://183.11.239.36:808/hls/37/index.m3u8
 浙江少儿,http://36.25.232.33:8888/udp/233.50.201.138:5140
 浙江少儿,http://115.221.83.182:8888/udp/233.50.201.138:5140
+浙江教科影视,http://47.92.130.115:9000/TVOD/2000000004000000001/hnbblive/index.m3u8?ace
+浙江教科影视,http://36.251.58.50:6060/TVOD/2000000004000000001/hnbblive/index.m3u8?ace
 浙江教育,http://36.25.232.33:8888/udp/233.50.201.134:5140
 浙江教育,http://115.221.83.182:8888/udp/233.50.201.134:5140
 浙江新闻广播,http://36.25.232.33:8888/udp/233.50.201.80:5140
@@ -2491,6 +2905,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 海南卫视,http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8$黑龙江移动
 海南卫视,http://111.160.17.2:59901/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://183.11.239.36:808/hls/124/index.m3u8
+海南卫视,http://47.92.130.115:9000/TVOD/5000000004000006211/bestzb/index.m3u8?ace
+海南卫视,http://47.92.130.115:9000/TVOD/1000000002000023773/ystenlive/index.m3u8?ace
+海南卫视,http://36.251.58.50:6060/TVOD/5000000004000006211/bestzb/index.m3u8?ace
+海南卫视,http://36.251.58.50:6060/TVOD/1000000002000023773/ystenlive/index.m3u8?ace
 海南卫视,http://117.144.58.42:35455/itv/5000000004000006211.m3u8?cdn=bestzb&Contentid=5000000004000006211
 海南卫视,http://171.88.145.30:4022/rtp/239.93.0.80:5140
 海南卫视,http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
@@ -2528,6 +2946,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://61.141.202.118:9901/tsfile/live/0126_1.m3u8
+深圳卫视,http://47.92.130.115:9000/TVOD/5000000004000007410/bestzb/index.m3u8?ace
+深圳卫视,http://47.92.130.115:9000/TVOD/6000000001000002116/wasusyt/index.m3u8?ace
+深圳卫视,http://47.92.130.115:9000/TVOD/1000000001000009227/ystenlive/index.m3u8?ace
+深圳卫视,http://47.92.130.115:9000/TVOD/1000000005000265028/ystenlive/index.m3u8?ace
+深圳卫视,http://47.92.130.115:9000/TVOD/5000000010000024026/bestzb/index.m3u8?ace
+深圳卫视,http://47.92.130.115:9000/TVOD/1000000001000011645/ystenlive/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/5000000004000007410/bestzb/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/6000000001000002116/wasusyt/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/1000000001000009227/ystenlive/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/1000000005000265028/ystenlive/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/5000000010000024026/bestzb/index.m3u8?ace
+深圳卫视,http://36.251.58.50:6060/TVOD/1000000001000011645/ystenlive/index.m3u8?ace
 深圳卫视,http://117.144.58.42:35455/itv/1000000005000265028.m3u8?cdn=ystenlive&Contentid=1000000005000265028
 深圳卫视,http://171.88.145.30:4022/rtp/239.93.0.182:5140
 深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
@@ -2581,6 +3011,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 湖北卫视,http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://222.134.245.16:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://183.11.239.36:808/hls/46/index.m3u8
+湖北卫视,http://47.92.130.115:9000/TVOD/6000000001000015436/wasusyt/index.m3u8?ace
+湖北卫视,http://47.92.130.115:9000/TVOD/1000000001000024621/ystenlive/index.m3u8?ace
+湖北卫视,http://47.92.130.115:9000/TVOD/5000000004000014954/bestzb/index.m3u8?ace
+湖北卫视,http://47.92.130.115:9000/TVOD/1000000005000265023/ystenlive/index.m3u8?ace
+湖北卫视,http://47.92.130.115:9000/TVOD/5000000010000022140/bestzb/index.m3u8?ace
+湖北卫视,http://47.92.130.115:9000/TVOD/1000000001000010355/ystenlive/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/6000000001000015436/wasusyt/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/1000000001000024621/ystenlive/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/5000000004000014954/bestzb/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/1000000005000265023/ystenlive/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/5000000010000022140/bestzb/index.m3u8?ace
+湖北卫视,http://36.251.58.50:6060/TVOD/1000000001000010355/ystenlive/index.m3u8?ace
 湖北卫视,http://180.103.216.177:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://117.144.58.42:35455/itv/1000000001000024621.m3u8?cdn=ystenlive&Contentid=1000000001000024621
 湖北卫视,http://171.88.145.30:4022/rtp/239.93.0.250:5140
@@ -2620,6 +3062,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 湖南卫视,http://116.9.204.242:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://183.11.239.36:808/hls/36/index.m3u8
 湖南卫视,http://222.240.82.92:9901/tsfile/live/0128_1.m3u8$「电信」
+湖南卫视,http://47.92.130.115:9000/TVOD/5000000004000006692/bestzb/index.m3u8?ace
+湖南卫视,http://47.92.130.115:9000/TVOD/6000000001000018044/wasusyt/index.m3u8?ace
+湖南卫视,http://47.92.130.115:9000/TVOD/1000000001000032695/ystenlive/index.m3u8?ace
+湖南卫视,http://47.92.130.115:9000/TVOD/1000000005000265024/ystenlive/index.m3u8?ace
+湖南卫视,http://47.92.130.115:9000/TVOD/5000000010000030452/bestzb/index.m3u8?ace
+湖南卫视,http://47.92.130.115:9000/TVOD/1000000001000009115/ystenlive/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/5000000004000006692/bestzb/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/6000000001000018044/wasusyt/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/1000000001000032695/ystenlive/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/1000000005000265024/ystenlive/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/5000000010000030452/bestzb/index.m3u8?ace
+湖南卫视,http://36.251.58.50:6060/TVOD/1000000001000009115/ystenlive/index.m3u8?ace
 湖南卫视,http://180.103.216.177:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://117.144.58.42:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
 湖南卫视,http://171.88.145.30:4022/rtp/239.93.0.88:5140
@@ -2651,6 +3105,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 灌篮高手剧集,http://124.248.69.76:35455/yy/1356243352
 灵界侦探浦饭幽助,http://182.40.120.195/test-txdwk.flv.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
 炊事班de故事3·柴米油盐,http://182.40.120.216/test-txdwk.flv.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8
+炫动3D,http://47.92.130.115:9000/TVOD/2000000004000000012/hnbblive/index.m3u8?ace
+炫动3D,http://47.92.130.115:9000/TVOD/6000000003000000558/wasusyt/index.m3u8?ace
+炫动3D,http://36.251.58.50:6060/TVOD/2000000004000000012/hnbblive/index.m3u8?ace
+炫动3D,http://36.251.58.50:6060/TVOD/6000000003000000558/wasusyt/index.m3u8?ace
 炫动卡通,http://106.46.147.82:10443/tsfile/live/0139_15.m3u8?key=txiptv&playlive=1&authid=0
 炫舞未来,http://111.29.9.33:6610/000000001000/1000000001000000515/index.m3u8?channel-id=bestzb&Contentid=1000000001000000515&livemode=1&stbId=3
 热播剧场,http://106.46.147.82:10443/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2712,6 +3170,12 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 甘肃卫视,http://124.128.73.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://222.134.245.16:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
+甘肃卫视,http://47.92.130.115:9000/TVOD/5000000011000031121/bestzb/index.m3u8?ace
+甘肃卫视,http://47.92.130.115:9000/TVOD/1000000002000017827/ystenlive/index.m3u8?ace
+甘肃卫视,http://47.92.130.115:9000/TVOD/5000000006000040021/bestzb/index.m3u8?ace
+甘肃卫视,http://36.251.58.50:6060/TVOD/5000000011000031121/bestzb/index.m3u8?ace
+甘肃卫视,http://36.251.58.50:6060/TVOD/1000000002000017827/ystenlive/index.m3u8?ace
+甘肃卫视,http://36.251.58.50:6060/TVOD/5000000006000040021/bestzb/index.m3u8?ace
 甘肃卫视,http://117.144.58.42:35455/itv/5000000011000031121.m3u8?cdn=bestzb&Contentid=5000000011000031121
 甘肃卫视,http://171.88.145.30:4022/rtp/239.93.0.81:5140
 甘肃卫视HD,http://120.76.248.139/live/bfgd/4200000119.m3u8
@@ -2757,6 +3221,14 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 神探夏洛克: 贝克街221B欢迎你,http://182.40.120.191/test-txdwk.flv.huya.com/src/1099531840871-1099531840871-86814581975941120-2199063805198-10057-A-0-1.m3u8
 神貂侠侣·陈晓陈妍希再塑经典,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.m3u8
 福建东南,http://1.197.249.194:9901/tsfile/live/1018_1.m3u8$河南电信酒店
+福建东南卫视,http://47.92.130.115:9000/TVOD/5000000004000010584/bestzb/index.m3u8?ace
+福建东南卫视,http://47.92.130.115:9000/TVOD/1000000005000265033/ystenlive/index.m3u8?ace
+福建东南卫视,http://47.92.130.115:9000/TVOD/5000000001000005829/bestzb/index.m3u8?ace
+福建东南卫视,http://47.92.130.115:9000/TVOD/1000000002000009263/ystenlive/index.m3u8?ace
+福建东南卫视,http://36.251.58.50:6060/TVOD/5000000004000010584/bestzb/index.m3u8?ace
+福建东南卫视,http://36.251.58.50:6060/TVOD/1000000005000265033/ystenlive/index.m3u8?ace
+福建东南卫视,http://36.251.58.50:6060/TVOD/5000000001000005829/bestzb/index.m3u8?ace
+福建东南卫视,http://36.251.58.50:6060/TVOD/1000000002000009263/ystenlive/index.m3u8?ace
 福建乡村,http://110.80.17.38:9901/tsfile/live/0130_1.m3u8$福建电信
 福建公共,http://8.138.7.223/tv/fjtv.php?id=6$官方源
 福建少儿,http://8.138.7.223/tv/fjtv.php?id=2$官方源
@@ -2803,6 +3275,8 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
+纯享4K,http://47.92.130.115:9000/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
+纯享4K,http://36.251.58.50:6060/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
 纳溪1,http://60.255.240.247:8090/live/nxxw_2000.m3u8
 绍兴新闻,http://36.25.232.33:8888/udp/233.50.201.156:5140
 绍兴新闻,http://115.221.83.182:8888/udp/233.50.201.156:5140
@@ -2906,9 +3380,13 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 西藏卫视,http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
+西藏卫视,http://47.92.130.115:9000/TVOD/1000000002000015894/ystenlive/index.m3u8?ace
+西藏卫视,http://36.251.58.50:6060/TVOD/1000000002000015894/ystenlive/index.m3u8?ace
 西藏卫视,http://180.103.216.177:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://171.88.145.30:4022/rtp/239.93.0.175:5140
 西藏卫视,http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
+西藏藏语卫视,http://47.92.130.115:9000/TVOD/5000000002000021549/bestzb/index.m3u8?ace
+西藏藏语卫视,http://36.251.58.50:6060/TVOD/5000000002000021549/bestzb/index.m3u8?ace
 解密,http://221.219.65.45:18888/udp/239.3.1.75:4120
 解密,http://115.171.216.91:4000/udp/225.1.8.235:4120
 许三多军营成长史,http://182.40.120.191/test-txdwk.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8
@@ -2943,6 +3421,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 贵州卫视,http://124.128.73.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://222.134.245.16:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://183.11.239.36:808/hls/49/index.m3u8
+贵州卫视,http://47.92.130.115:9000/TVOD/5000000004000025843/bestzb/index.m3u8?ace
+贵州卫视,http://47.92.130.115:9000/TVOD/1000000002000003169/ystenlive/index.m3u8?ace
+贵州卫视,http://36.251.58.50:6060/TVOD/5000000004000025843/bestzb/index.m3u8?ace
+贵州卫视,http://36.251.58.50:6060/TVOD/1000000002000003169/ystenlive/index.m3u8?ace
 贵州卫视,http://117.144.58.42:35455/itv/5000000004000025843.m3u8?cdn=bestzb&Contentid=5000000004000025843
 贵州卫视,http://171.88.145.30:4022/rtp/239.93.0.131:5140
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
@@ -3023,6 +3505,16 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8$北方广电代理
+辽宁卫视,http://47.92.130.115:9000/TVOD/5000000004000011671/bestzb/index.m3u8?ace
+辽宁卫视,http://47.92.130.115:9000/TVOD/1000000001000001945/ystenlive/index.m3u8?ace
+辽宁卫视,http://47.92.130.115:9000/TVOD/1000000005000265022/ystenlive/index.m3u8?ace
+辽宁卫视,http://47.92.130.115:9000/TVOD/5000000001000008940/bestzb/index.m3u8?ace
+辽宁卫视,http://47.92.130.115:9000/TVOD/1000000002000024033/ystenlive/index.m3u8?ace
+辽宁卫视,http://36.251.58.50:6060/TVOD/5000000004000011671/bestzb/index.m3u8?ace
+辽宁卫视,http://36.251.58.50:6060/TVOD/1000000001000001945/ystenlive/index.m3u8?ace
+辽宁卫视,http://36.251.58.50:6060/TVOD/1000000005000265022/ystenlive/index.m3u8?ace
+辽宁卫视,http://36.251.58.50:6060/TVOD/5000000001000008940/bestzb/index.m3u8?ace
+辽宁卫视,http://36.251.58.50:6060/TVOD/1000000002000024033/ystenlive/index.m3u8?ace
 辽宁卫视,http://180.103.216.177:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://117.144.58.42:35455/itv/1000000005000265022.m3u8?cdn=ystenlive&Contentid=1000000005000265022
 辽宁卫视,http://171.88.145.30:4022/rtp/239.93.1.108:5140
@@ -3096,6 +3588,14 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 重庆卫视,http://222.134.245.16:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://183.11.239.36:808/hls/53/index.m3u8
 重庆卫视,http://183.66.13.82:60033/tsfile/live/0018_1.m3u8
+重庆卫视,http://47.92.130.115:9000/TVOD/1000000001000001096/ystenlive/index.m3u8?ace
+重庆卫视,http://47.92.130.115:9000/TVOD/5000000004000025797/bestzb/index.m3u8?ace
+重庆卫视,http://47.92.130.115:9000/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
+重庆卫视,http://47.92.130.115:9000/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
+重庆卫视,http://36.251.58.50:6060/TVOD/1000000001000001096/ystenlive/index.m3u8?ace
+重庆卫视,http://36.251.58.50:6060/TVOD/5000000004000025797/bestzb/index.m3u8?ace
+重庆卫视,http://36.251.58.50:6060/TVOD/1000000005000265017/ystenlive/index.m3u8?ace
+重庆卫视,http://36.251.58.50:6060/TVOD/1000000002000018937/ystenlive/index.m3u8?ace
 重庆卫视,http://180.103.216.177:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://117.144.58.42:35455/itv/1000000001000001096.m3u8?cdn=ystenlive&Contentid=1000000001000001096
 重庆卫视,http://171.88.145.30:4022/rtp/239.93.1.107:5140
@@ -3186,6 +3686,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 陕西五套,http://112.46.85.60:8009/hls/22/index.m3u8
 陕西八套,http://112.46.85.60:8009/hls/62/index.m3u8
 陕西六套,http://112.46.85.60:8009/hls/23/index.m3u8
+陕西农林卫视,http://47.92.130.115:9000/TVOD/2000000003000000046/hnbblive/index.m3u8?ace
+陕西农林卫视,http://47.92.130.115:9000/TVOD/1000000005000266003/ystenlive/index.m3u8?ace
+陕西农林卫视,http://36.251.58.50:6060/TVOD/2000000003000000046/hnbblive/index.m3u8?ace
+陕西农林卫视,http://36.251.58.50:6060/TVOD/1000000005000266003/ystenlive/index.m3u8?ace
 陕西卫视,http://36.25.232.33:8888/udp/233.50.201.59:5140
 陕西卫视,http://115.221.83.182:8888/udp/233.50.201.59:5140
 陕西卫视,http://106.46.147.82:10443/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3203,6 +3707,10 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 陕西卫视,http://183.11.239.36:808/hls/58/index.m3u8
 陕西卫视,http://112.46.85.60:8009/hls/17/index.m3u8
 陕西卫视,http://124.116.183.146:9901/tsfile/live/0136_1.m3u8
+陕西卫视,http://47.92.130.115:9000/TVOD/1000000002000007495/ystenlive/index.m3u8?ace
+陕西卫视,http://47.92.130.115:9000/TVOD/5000000006000040017/bestzb/index.m3u8?ace
+陕西卫视,http://36.251.58.50:6060/TVOD/1000000002000007495/ystenlive/index.m3u8?ace
+陕西卫视,http://36.251.58.50:6060/TVOD/5000000006000040017/bestzb/index.m3u8?ace
 陕西卫视,http://180.103.216.177:9901/tsfile/live/0118_2.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://171.88.145.30:4022/rtp/239.93.0.143:5140
 陕西卫视,http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
@@ -3233,9 +3741,17 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 青海卫视,http://222.134.245.16:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://183.11.239.36:808/hls/61/index.m3u8
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
+青海卫视,http://47.92.130.115:9000/TVOD/1000000002000013359/ystenlive/index.m3u8?ace
+青海卫视,http://47.92.130.115:9000/TVOD/5000000006000040015/bestzb/index.m3u8?ace
+青海卫视,http://36.251.58.50:6060/TVOD/1000000002000013359/ystenlive/index.m3u8?ace
+青海卫视,http://36.251.58.50:6060/TVOD/5000000006000040015/bestzb/index.m3u8?ace
 青海卫视,http://117.144.58.42:35455/itv/1000000002000013359.m3u8?cdn=ystenlive&Contentid=1000000002000013359
 青海卫视,http://171.88.145.30:4022/rtp/239.93.0.192:5140
 青海卫视,http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
+青海安多卫视,http://47.92.130.115:9000/TVOD/1000000005000266001/ystenlive/index.m3u8?ace
+青海安多卫视,http://47.92.130.115:9000/TVOD/5000000006000022124/bestzb/index.m3u8?ace
+青海安多卫视,http://36.251.58.50:6060/TVOD/1000000005000266001/ystenlive/index.m3u8?ace
+青海安多卫视,http://36.251.58.50:6060/TVOD/5000000006000022124/bestzb/index.m3u8?ace
 青环2，杨迪又偷题了？,http://182.40.120.230/test-txdwk.flv.huya.com/src/1239543153979-1239543153979-11135015092146405376-2479086431414-10057-A-0-1.m3u8
 青白江综合,http://60.255.240.247:8090/live/qbjxwzh_2000.m3u8
 青神综合,http://60.255.240.247:8090/live/qszh_2000.m3u8
@@ -3331,6 +3847,18 @@ yang光的快乐生活，轻松一夏的必看喜剧！,http://182.40.120.191/te
 黑龙江卫视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://222.134.245.16:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8
+黑龙江卫视,http://47.92.130.115:9000/TVOD/6000000001000016510/wasusyt/index.m3u8?ace
+黑龙江卫视,http://47.92.130.115:9000/TVOD/1000000001000001925/ystenlive/index.m3u8?ace
+黑龙江卫视,http://47.92.130.115:9000/TVOD/5000000004000025203/bestzb/index.m3u8?ace
+黑龙江卫视,http://47.92.130.115:9000/TVOD/1000000005000265029/ystenlive/index.m3u8?ace
+黑龙江卫视,http://47.92.130.115:9000/TVOD/5000000010000031107/bestzb/index.m3u8?ace
+黑龙江卫视,http://47.92.130.115:9000/TVOD/1000000001000009082/ystenlive/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/6000000001000016510/wasusyt/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/1000000001000001925/ystenlive/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/5000000004000025203/bestzb/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/1000000005000265029/ystenlive/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/5000000010000031107/bestzb/index.m3u8?ace
+黑龙江卫视,http://36.251.58.50:6060/TVOD/1000000001000009082/ystenlive/index.m3u8?ace
 黑龙江卫视,http://180.103.216.177:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://117.144.58.42:35455/itv/1000000001000001925.m3u8?cdn=ystenlive&Contentid=1000000001000001925
 黑龙江卫视,http://171.88.145.30:4022/rtp/239.93.0.183:5140
