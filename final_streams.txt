@@ -387,7 +387,7 @@ CCTV16 奥林匹克,http://47.92.130.115:9000/TVOD/1000000006000233001/ystenlive
 CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/1000000006000233002/ystenlive/index.m3u8?ace
 CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/5000000008000023253/bestzb/index.m3u8?ace
 CCTV16 奥林匹克,http://36.251.58.50:6060/TVOD/1000000006000233001/ystenlive/index.m3u8?ace
-CCTV16 奥林匹克4K,http://47.92.130.115:9000/TVOD/5000000008000023254/bestzb/index.m3u8?ace
+CCTV16 奥林匹克4K,http://189.1.244.48:50001/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 CCTV16 奥林匹克4K,http://36.251.58.50:6060/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
 CCTV17,http://36.25.232.33:8888/udp/233.50.201.35:5140
@@ -3029,7 +3029,7 @@ tvbs闽南,http://37.27.111.214:8080/live/23/hls.m3u8
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
-纯享4K,http://47.92.130.115:9000/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
+纯享4K,http://189.1.244.48:50001/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
 纯享4K,http://36.251.58.50:6060/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
 纳溪1,http://60.255.240.247:8090/live/nxxw_2000.m3u8
 绍兴新闻,http://36.25.232.33:8888/udp/233.50.201.156:5140
