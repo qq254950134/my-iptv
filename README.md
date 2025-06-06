@@ -1,3 +1,4 @@
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
 # my-tv
 
 my-tv 是一个用于个人托管和管理直播源的项目，旨在自动从多个网站获取最新的直播源，并对这些直播源进行整理、分类和去重处理。该项目适合用于个人学习、探索自动化脚本和 IPTV 直播源管理。
